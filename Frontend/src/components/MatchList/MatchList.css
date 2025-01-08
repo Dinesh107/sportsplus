@@ -1,0 +1,35 @@
+.match-list {
+    width: 100%;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px #00000015;
+    transition: 0.3s;
+    animation: FadeIn 2s;
+}
+.match-list-info p {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.match-location {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #707070;
+}
+
+.match-price {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #262626;
+    margin: 10px 0px;
+}
+
+.book-match-button {
+    padding: 10px 8px;
+    background-color: #49557e;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 18px;
+}
